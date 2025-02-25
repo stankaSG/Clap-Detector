@@ -1,0 +1,5 @@
+.idea
+.venv
+audios
+live.wav
+introduction-ML.py
